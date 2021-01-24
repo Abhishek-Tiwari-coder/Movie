@@ -1,0 +1,128 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+#banner h1
+{
+	font-size:70;
+	color:white;
+	padding:60px;
+}
+#main img{
+	float:left;
+	height:198px;
+	width:410px;
+}
+#main{
+	float:left;
+	height:30%;
+	width:30%;
+}
+#banner{
+
+	float:left;
+	background-color:black;
+	
+	height:30%;
+	width:70%;
+}
+#links{
+	
+	padding:40px;
+	
+	background-color:black;
+	
+}
+#links a{
+	padding:10px;
+	text-decoration:none;
+	font-size:30px;
+	text-indent:10px;
+	text-align:center-right;
+	/* border:2px solid white; */
+	padding-right:100px;
+	float:left;
+	display:inline-block;
+}
+#input
+{
+	
+	align:right-side;
+}
+#row h3{
+	padding-left:90px;
+	
+}
+#info h1,p{
+	background-color:black;
+	color:white;
+	height:2000px;
+	width:1000px;
+	float:left;
+	display:inline-block;
+	padding:30px;
+}
+#hidden p{
+	
+	font-size:300px;
+	color:white;
+}
+input{
+	height:40px;
+	width:230px;
+	border-radius:4px;
+}
+button{
+	height:40px;
+	width:50px;
+	border-radius:4px;
+}
+#row div{
+	height:340px;
+	width:330px;
+	float:left;
+	border:1px;
+}
+#row div img
+{
+	
+	padding-top:40px;
+	padding-left:70px;
+	height:270px;
+	width:250px;
+	padding-bottom:10px;
+	
+}
+
+#footers{
+	
+	padding:20px;
+}
+#footers article {
+	color:white;
+	padding-left:50px;
+	background-color:black;
+	float:left;
+   width:1240px;
+    display:block;
+    
+}
+#btn{
+	height:40px;
+	width:80px;
+	border-radius:4px;
+}
+#footers footer 
+{
+
+	background-color:black;
+	float:left;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #45a1ff;
+    color: #fff;
+	padding-bottom:10px;
+}
+
